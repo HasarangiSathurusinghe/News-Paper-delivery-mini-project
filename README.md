@@ -1,4 +1,4 @@
-# 🗞️ News Paper Delivery Mini Project
+# 🗞️ News Paper Delivery Mini Project(Using Java)
 
 This is a **mini mobile app** developed for **newspaper distributors** to streamline their delivery operations.
 
